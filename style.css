@@ -1,0 +1,42 @@
+* {
+  font-family: "Bebas Neue", sans-serif;
+  font-style: normal;
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+
+  text-decoration: none;
+}
+
+body {
+  display: block;
+}
+h1 {
+  font-size: 100px;
+  text-align: center;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+}
+.instr {
+  font-size: 40px;
+  margin-left: 75vh;
+}
+.guessNumber {
+  display: block;
+  margin-top: 7vh;
+  margin-left: 90vh;
+  font-size: 20px;
+}
+.alert {
+  display: block;
+  color: red;
+  margin-top: 1vh;
+  margin-left: 90vh;
+  font-size: 20px;
+}
+.button {
+  margin: 1vh 0 0 90vh;
+  font-size: 40px;
+  height: 10vh;
+  width: 26.5vh;
+}
